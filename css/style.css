@@ -31,7 +31,7 @@ body {
   background: #ffffff;
   border: 1px solid #d9d9d9;
   border-radius: 4px;
-  background-image: url(/img/search-icon.svg);
+  background-image: url("img/search-icon.svg");
   background-repeat: no-repeat;
   background-position: right 12px center;
 }
@@ -463,13 +463,13 @@ body {
   word-wrap: break-word;
 }
 .concuria {
-  background-image: url(/img/Concuria.png);
+  background-image: url("img/Concuria.png");
 }
 .figma {
-  background-image: url(/img/Figma.png);
+  background-image: url("img/Figma.png");
 }
 .ant {
-  background-image: url(/img/AntDesign.png);
+  background-image: url("img/AntDesign.png");
 }
 
 @media (max-width: 1250px) {
