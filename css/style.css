@@ -84,7 +84,7 @@ body {
   text-decoration: none;
   color: white;
   font-weight: 600;
-  font-style: 14px;
+  font-size: 14px;
   line-height: 22px;
 }
 .header-icon {
@@ -515,7 +515,7 @@ body {
   .menu-sidebar {
     position: fixed;
     left: 0;
-    top: 25;
+    top: 25px;
     width: 100%;
     max-width: 250px;
     padding-top: 12px;
